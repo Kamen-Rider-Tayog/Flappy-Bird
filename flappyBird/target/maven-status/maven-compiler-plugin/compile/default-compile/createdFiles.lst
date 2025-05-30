@@ -1,0 +1,8 @@
+com\mycompany\flappybird\Background.class
+com\mycompany\flappybird\FlappyBird.class
+com\mycompany\flappybird\SoundManager.class
+com\mycompany\flappybird\Pipe.class
+com\mycompany\flappybird\Ground.class
+com\mycompany\flappybird\HomePanel.class
+com\mycompany\flappybird\GamePanel.class
+com\mycompany\flappybird\Bird.class
