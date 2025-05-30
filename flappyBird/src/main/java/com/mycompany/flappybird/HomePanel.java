@@ -1,5 +1,10 @@
 package com.mycompany.flappybird;
 
+/**
+ *
+ * @author tayog
+ */
+
 import javax.swing.JPanel;
 import javax.swing.Timer;
 import java.awt.Graphics;
